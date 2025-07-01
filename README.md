@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Currently pursuing my Master's in Data Analytics Engineering at **Northeastern University, Boston, USA**.  
 
 💼 **Professional Background**  
-I bring over 3 years of hands-on industry experience as a former professional at **Virtusa**. I specialize in leveraging **data analytics**, **machine learning**, and **artificial intelligence** to solve real-world problems and drive impactful business decisions.  
+I bring over 4 years of hands-on industry experience as a former professional at **Virtusa**. I specialize in leveraging **data analytics**, **machine learning**, and **artificial intelligence** to solve real-world problems and drive impactful business decisions.  
 
 🏅 **Certifications & Achievements**  
 - Smart India Hackathon Winner 2019  
